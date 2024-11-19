@@ -1,3 +1,4 @@
 [server]
 enableCORS = false
-allowIframe = true
+enableXsrfProtection = false
+
